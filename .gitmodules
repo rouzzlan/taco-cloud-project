@@ -1,0 +1,21 @@
+[submodule "taco-ui-order"]
+	path = taco-ui-order
+	url = git@github.com:rouzzlan/taco-ui-order.git
+[submodule "taco-order-service"]
+	path = taco-order-service
+	url = git@github.com:rouzzlan/taco-order-service.git
+[submodule "taco-address-service"]
+	path = taco-address-service
+	url = git@github.com:rouzzlan/taco-address-service.git
+[submodule "taco-cc-service"]
+	path = taco-cc-service
+	url = git@github.com:rouzzlan/taco-cc-service.git
+[submodule "taco-cloud-deployments"]
+	path = taco-cloud-deployments
+	url = git@github.com:rouzzlan/taco-cloud-deployments.git
+[submodule "taco-order-sender"]
+	path = taco-order-sender
+	url = git@github.com:rouzzlan/taco-order-sender.git
+[submodule "taco-order-receiver"]
+	path = taco-order-receiver
+	url = git@github.com:rouzzlan/taco-order-receiver.git
